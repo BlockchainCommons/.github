@@ -1,7 +1,9 @@
 # Blockchain Commons
 
 <img align="left" src="https://www.blockchaincommons.com/images/bc-logo-black.png">
+
 **Blockchain Commons** works with developer communities to design, build, and maintain secure & compassionate decentralized architectures & tools for digital assets & digital identity based on responsible key management.
+
 * To learn about the Gordian Principles, visit the [Gordian Repo](https://github.com/BlockchainCommons/Gordian#gordian-principles).
 * To view our major projects, read the [Projects Webpage](https://www.blockchaincommons.com/projects.html).
 * To talk about our current projects, join our [Community Discussions](https://github.com/orgs/BlockchainCommons/discussions).
