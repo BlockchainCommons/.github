@@ -9,6 +9,6 @@
 * To talk about our current projects, join our [Community Discussions](https://github.com/orgs/BlockchainCommons/discussions).
 * To overview our specifications, view the [Research Repo](https://github.com/BlockchainCommons/Research/blob/master/README.md).
 * To read code & docs on our specifications, visit the [Crypto Commons Repo](https://github.com/BlockchainCommons/crypto-commons).
-* To discuss specifications and requirements), join our [Airgapped Wallet Discussions](https://github.com/BlockchainCommons/Airgapped-Wallet-Community/discussions).
+* To discuss specifications & requirements, join our [Airgapped Wallet Discussions](https://github.com/BlockchainCommons/Airgapped-Wallet-Community/discussions).
 * To program with Bitcoin Core, read the [Learning Bitcoin Repo](https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line#readme).
 * To learn about responsible key management, read the [Smart Custody Webpage](https://www.smartcustody.com/).
