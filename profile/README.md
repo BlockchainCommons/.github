@@ -11,4 +11,4 @@
 * To read code & docs on our specifications, visit the [Crypto Commons Repo](https://github.com/BlockchainCommons/crypto-commons).
 * To discuss specifications and requirements), join our [Airgapped Wallet Discussions](https://github.com/BlockchainCommons/Airgapped-Wallet-Community/discussions).
 * To program with Bitcoin Core, read the [Learning Bitcoin Repo](https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line#readme).
-* TO read our major docs about responsible key management, read the [Smart Custody Webpage](https://www.smartcustody.com/).
+* To learn about responsible key management, read the [Smart Custody Webpage](https://www.smartcustody.com/).
