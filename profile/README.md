@@ -4,6 +4,7 @@
 
 <img align="left" src="https://www.blockchaincommons.com/images/bc-logo-black.png">
 
+* To peruse our current news, browse the [Posts Page](https://www.blockchaincommons.com/posts/).
 * To view all of our projects, read the [Projects Webpage](https://www.blockchaincommons.com/projects.html).
 * To see current projects, skim the shorter [Major Projects List](https://www.blockchaincommons.com/home/#major-projects)
 * To overview all of our specifications, view the [Research Repo](https://github.com/BlockchainCommons/Research/blob/master/README.md).
