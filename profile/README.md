@@ -13,3 +13,4 @@
 * To become a more active Gordian Developer, sign up for our [Gordian Developer Signal Channel or Announcement List](https://www.blockchaincommons.com/subscribe/).
 * To learn about responsible key management, read the [Smart Custody Webpage](https://www.smartcustody.com/).
 * To program with Bitcoin Core, read the [Learning Bitcoin Repo](https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line#readme).
+* To create trusted Git repos, visit the [Open Integrity Repo](/openintegrityproject/)
