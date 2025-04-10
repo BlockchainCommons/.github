@@ -6,9 +6,8 @@
 
 * To peruse our current news, browse the [Posts Page](https://www.blockchaincommons.com/posts/).
 * To view all of our projects, read the [Projects Webpage](https://www.blockchaincommons.com/projects.html).
-* To see current projects, skim the shorter [Major Projects List](https://www.blockchaincommons.com/home/#major-projects).
 * To see our advocacy efforts, review the [Advocacy Webpage](https://advocacy.blockchaincommons.com).
-* To overview all of our specifications, view the [Research Repo].(https://github.com/BlockchainCommons/Research/blob/master/README.md).
+* To overview all of our specifications, view the [Research Repo](https://github.com/BlockchainCommons/Research/blob/master/README.md).
 * To read code & docs on our specifications, visit the [Developer Webpage](https://developer.blockchaincommons.com).
 * To discuss these specs & define requirements, join our [Gordian Developer Community](https://github.com/BlockchainCommons/Gordian-Developer-Community/discussions).
 * To become a more active Gordian Developer, sign up for our [Gordian Developer Signal Channel or Announcement List](https://www.blockchaincommons.com/subscribe/).
